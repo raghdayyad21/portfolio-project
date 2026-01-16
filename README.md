@@ -6,3 +6,8 @@ This project is a simple personal portfolio website created as part of a Softwar
 - Basic HTML structure
 - Git version control
 - Initial project setup
+
+## Version 1.0
+- Added professional profile blog section and styling
+- Initial release
+
